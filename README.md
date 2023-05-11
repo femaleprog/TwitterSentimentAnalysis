@@ -25,4 +25,5 @@ TweetSentimentClassifier is a project that aims to analyze sentiment on Twitter 
 ## Conclusion
 TweetSentimentClassifier offers a powerful solution for sentiment analysis on Twitter, specifically focusing on classifying tweets into sports and politics categories. Through effective preprocessing, feature extraction, and machine learning techniques, the project achieves impressive performance in accurately categorizing tweets. Its potential applications include public opinion tracking, trend analysis, and sentiment monitoring around topical issues. By exploring natural language processing, text classification, and social media sentiment analysis, TweetSentimentClassifier provides an exciting opportunity to gain insights from Twitter data and understand the sentiments expressed in the online world.
 
-Feel free to customize the README file based on your specific project details and requirements.
+
+
